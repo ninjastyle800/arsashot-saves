@@ -2,305 +2,308 @@
 
 Click on a save to download:
 
-- [README](arsashot-saves/README.md
-- [COMMIT_EDITMSG](arsashot-saves/.git/COMMIT_EDITMSG
-- [config](arsashot-saves/.git/config
-- [description](arsashot-saves/.git/description
-- [FETCH_HEAD](arsashot-saves/.git/FETCH_HEAD
-- [HEAD](arsashot-saves/.git/HEAD
-- [index](arsashot-saves/.git/index
-- [ORIG_HEAD](arsashot-saves/.git/ORIG_HEAD
-- [packed-refs](arsashot-saves/.git/packed-refs
-- [applypatch-msg](arsashot-saves/.git/hooks/applypatch-msg.sample
-- [commit-msg](arsashot-saves/.git/hooks/commit-msg.sample
-- [fsmonitor-watchman](arsashot-saves/.git/hooks/fsmonitor-watchman.sample
-- [post-update](arsashot-saves/.git/hooks/post-update.sample
-- [pre-applypatch](arsashot-saves/.git/hooks/pre-applypatch.sample
-- [pre-commit](arsashot-saves/.git/hooks/pre-commit.sample
-- [pre-merge-commit](arsashot-saves/.git/hooks/pre-merge-commit.sample
-- [pre-push](arsashot-saves/.git/hooks/pre-push.sample
-- [pre-rebase](arsashot-saves/.git/hooks/pre-rebase.sample
-- [pre-receive](arsashot-saves/.git/hooks/pre-receive.sample
-- [prepare-commit-msg](arsashot-saves/.git/hooks/prepare-commit-msg.sample
-- [push-to-checkout](arsashot-saves/.git/hooks/push-to-checkout.sample
-- [sendemail-validate](arsashot-saves/.git/hooks/sendemail-validate.sample
-- [update](arsashot-saves/.git/hooks/update.sample
-- [exclude](arsashot-saves/.git/info/exclude
-- [HEAD](arsashot-saves/.git/logs/HEAD
-- [main](arsashot-saves/.git/logs/refs/heads/main
-- [HEAD](arsashot-saves/.git/logs/refs/remotes/origin/HEAD
-- [main](arsashot-saves/.git/logs/refs/remotes/origin/main
-- [7b04216da5ce43483e50ee05cfcb91dc6d9305](arsashot-saves/.git/objects/17/7b04216da5ce43483e50ee05cfcb91dc6d9305
-- [54138c9b0fe78b744cdf631a88de2fae29cb03](arsashot-saves/.git/objects/53/54138c9b0fe78b744cdf631a88de2fae29cb03
-- [3d80d24cebfa29bbd642a1bf352e7a7eebf2d0](arsashot-saves/.git/objects/63/3d80d24cebfa29bbd642a1bf352e7a7eebf2d0
-- [24560e736ad3759c35d077a90ea137becb862a](arsashot-saves/.git/objects/67/24560e736ad3759c35d077a90ea137becb862a
-- [ae96174d9349849620f41d8dda02dc6591c9d3](arsashot-saves/.git/objects/6c/ae96174d9349849620f41d8dda02dc6591c9d3
-- [3c93f4b7569a5a8cb2c298002db8e865e48a07](arsashot-saves/.git/objects/ac/3c93f4b7569a5a8cb2c298002db8e865e48a07
-- [27a3ff374e4685d138c917293d5c0820f98297](arsashot-saves/.git/objects/b7/27a3ff374e4685d138c917293d5c0820f98297
-- [b3a11028282e4cee161f87a8a39732b25dba03](arsashot-saves/.git/objects/bd/b3a11028282e4cee161f87a8a39732b25dba03
-- [836730e327d302c023e32fa34c24139f69f832](arsashot-saves/.git/objects/c1/836730e327d302c023e32fa34c24139f69f832
-- [ae7711bfac153d512a1a45474da7f6e6c1ca3a](arsashot-saves/.git/objects/c5/ae7711bfac153d512a1a45474da7f6e6c1ca3a
-- [55e940654c66bbb92a705846aac69c378239bf](arsashot-saves/.git/objects/c7/55e940654c66bbb92a705846aac69c378239bf
-- [003fe03aff868e7760bf0f0f84766b79fb6b74](arsashot-saves/.git/objects/db/003fe03aff868e7760bf0f0f84766b79fb6b74
-- [91b4ad83d7dc4dc3204df28521978480214698](arsashot-saves/.git/objects/f8/91b4ad83d7dc4dc3204df28521978480214698
-- [pack-08e66a72e5bbd7b7151703eaf47107e849917667](arsashot-saves/.git/objects/pack/pack-08e66a72e5bbd7b7151703eaf47107e849917667.idx
-- [pack-08e66a72e5bbd7b7151703eaf47107e849917667](arsashot-saves/.git/objects/pack/pack-08e66a72e5bbd7b7151703eaf47107e849917667.pack
-- [pack-08e66a72e5bbd7b7151703eaf47107e849917667](arsashot-saves/.git/objects/pack/pack-08e66a72e5bbd7b7151703eaf47107e849917667.rev
-- [main](arsashot-saves/.git/refs/heads/main
-- [HEAD](arsashot-saves/.git/refs/remotes/origin/HEAD
-- [main](arsashot-saves/.git/refs/remotes/origin/main
-- [Aliens Fireteam Elite Modded Starter Save PC](arsashot-saves/Aliens Fireteam Elite/Aliens Fireteam Elite Modded Starter Save PC.zip
-- [Aliens Fireteam Elite Modded Starter Save PS4 EU](arsashot-saves/Aliens Fireteam Elite/Aliens Fireteam Elite Modded Starter Save PS4 EU.zip
-- [Aliens Fireteam Elite Modded Starter Save PS4 US](arsashot-saves/Aliens Fireteam Elite/Aliens Fireteam Elite Modded Starter Save PS4 US.zip
-- [char](arsashot-saves/Aliens Fireteam Elite/Modded Starter Saves/pc save/char.sav
-- [CUSA27462](arsashot-saves/Aliens Fireteam Elite/Modded Starter Saves/PS4 (US)/CUSA27462.zip
-- [Assassin's Creed Odyssey Modded Starter Saves PS4](arsashot-saves/Assassin's Creed Odyssey/Assassin's Creed Odyssey Modded Starter Saves PS4.zip
-- [Assassin's Creed Valhalla Modded Starter Save PS4 US](arsashot-saves/Assassin's Creed Valhalla/Assassin's Creed Valhalla Modded Starter Save PS4 US.zip
-- [Assassins Creed Origins Modded Starter Save PS4](arsashot-saves/Assassin's Creed Origins/Assassins Creed Origins Modded Starter Save PS4.zip
-- [Borderlands 1 Modded Starter Saves PC](arsashot-saves/Borderlands 1/Borderlands 1 Modded Starter Saves PC.zip
-- [Borderlands 1 Modded Starter Saves PS4 EU](arsashot-saves/Borderlands 1/Borderlands 1 Modded Starter Saves PS4 EU.zip
-- [Borderlands 1 Modded Starter Saves PS4 US](arsashot-saves/Borderlands 1/Borderlands 1 Modded Starter Saves PS4 US.zip
-- [Saves](arsashot-saves/borderlands 2/All Customization Saves/PC/Saves
-- [SaveCS02](arsashot-saves/borderlands 2/All Customization Saves/PC/Heads & Skins Dropper/Assassin/SaveCS02.sav
-- [SaveCS01](arsashot-saves/borderlands 2/All Customization Saves/PC/Heads & Skins Dropper/Commando/SaveCS01.sav
-- [SaveCS04](arsashot-saves/borderlands 2/All Customization Saves/PC/Heads & Skins Dropper/Gunzerker/SaveCS04.sav
-- [SaveCS05](arsashot-saves/borderlands 2/All Customization Saves/PC/Heads & Skins Dropper/Mechromancer/SaveCS05.sav
-- [SaveCS06](arsashot-saves/borderlands 2/All Customization Saves/PC/Heads & Skins Dropper/Psyhco/SaveCS06.sav
-- [SaveCS03](arsashot-saves/borderlands 2/All Customization Saves/PC/Heads & Skins Dropper/Siren/SaveCS03.sav
-- [Save](arsashot-saves/borderlands 2/All Customization Saves/PS4 (US)/Save
-- [CUSA01401](arsashot-saves/borderlands 2/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Assassin/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Commando/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Gunzerker/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Mechromancer/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Psyhco/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Siren/CUSA01401.zip
-- [Saves](arsashot-saves/borderlands 2/All Customization Saves/Xbox 360/Saves
-- [SaveCS02](arsashot-saves/borderlands 2/All Customization Saves/Xbox 360/Heads & Skins Dropper/Assassin/SaveCS02.sav
-- [SaveCS01](arsashot-saves/borderlands 2/All Customization Saves/Xbox 360/Heads & Skins Dropper/Commando/SaveCS01.sav
-- [SaveCS04](arsashot-saves/borderlands 2/All Customization Saves/Xbox 360/Heads & Skins Dropper/Gunzerker/SaveCS04.sav
-- [SaveCS05](arsashot-saves/borderlands 2/All Customization Saves/Xbox 360/Heads & Skins Dropper/Mechromancer/SaveCS05.sav
-- [SaveCS06](arsashot-saves/borderlands 2/All Customization Saves/Xbox 360/Heads & Skins Dropper/Psyhco/SaveCS06.sav
-- [SaveCS03](arsashot-saves/borderlands 2/All Customization Saves/Xbox 360/Heads & Skins Dropper/Siren/SaveCS03.sav
-- [SaveHYB1](arsashot-saves/borderlands 2/Hybrid Weapons Saves/pc save/Assassin/SaveHYB1.sav
-- [SaveHYB2](arsashot-saves/borderlands 2/Hybrid Weapons Saves/pc save/Commando/SaveHYB2.sav
-- [SaveHYB3](arsashot-saves/borderlands 2/Hybrid Weapons Saves/pc save/Gunzerker/SaveHYB3.sav
-- [SaveHYB4](arsashot-saves/borderlands 2/Hybrid Weapons Saves/pc save/Mechromancer/SaveHYB4.sav
-- [SaveHYB5](arsashot-saves/borderlands 2/Hybrid Weapons Saves/pc save/Psycho/SaveHYB5.sav
-- [SaveHYB6](arsashot-saves/borderlands 2/Hybrid Weapons Saves/pc save/Siren/SaveHYB6.sav
-- [save here](arsashot-saves/borderlands 2/Hybrid Weapons Saves/PS4 (EU)/save here
-- [CUSA01401](arsashot-saves/borderlands 2/Hybrid Weapons Saves/PS4 (US)/Assassin/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Hybrid Weapons Saves/PS4 (US)/Commando/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Hybrid Weapons Saves/PS4 (US)/Gunzerker/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Hybrid Weapons Saves/PS4 (US)/Mechromancer/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Hybrid Weapons Saves/PS4 (US)/Psycho/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Hybrid Weapons Saves/PS4 (US)/Siren/CUSA01401.zip
-- [SaveHYB1](arsashot-saves/borderlands 2/Hybrid Weapons Saves/xbox 360 save/Assassin/SaveHYB1.sav
-- [SaveHYB2](arsashot-saves/borderlands 2/Hybrid Weapons Saves/xbox 360 save/Commando/SaveHYB2.sav
-- [SaveHYB3](arsashot-saves/borderlands 2/Hybrid Weapons Saves/xbox 360 save/Gunzerker/SaveHYB3.sav
-- [SaveHYB4](arsashot-saves/borderlands 2/Hybrid Weapons Saves/xbox 360 save/Mechromancer/SaveHYB4.sav
-- [SaveHYB5](arsashot-saves/borderlands 2/Hybrid Weapons Saves/xbox 360 save/Psycho/SaveHYB5.sav
-- [SaveHYB6](arsashot-saves/borderlands 2/Hybrid Weapons Saves/xbox 360 save/Siren/SaveHYB6.sav
-- [SaveXP02](arsashot-saves/borderlands 2/Instant Level Saves/pc save/Assassin/SaveXP02.sav
-- [SaveXP01](arsashot-saves/borderlands 2/Instant Level Saves/pc save/Commando/SaveXP01.sav
-- [SaveXP04](arsashot-saves/borderlands 2/Instant Level Saves/pc save/Gunzerker/SaveXP04.sav
-- [SaveXP05](arsashot-saves/borderlands 2/Instant Level Saves/pc save/Mechromancer/SaveXP05.sav
-- [SaveXP06](arsashot-saves/borderlands 2/Instant Level Saves/pc save/Psyhco/SaveXP06.sav
-- [SaveXP03](arsashot-saves/borderlands 2/Instant Level Saves/pc save/Siren/SaveXP03.sav
-- [i dont care](arsashot-saves/borderlands 2/Instant Level Saves/PS4 (EU)/i dont care
-- [CUSA01401](arsashot-saves/borderlands 2/Instant Level Saves/PS4 (US)/Assassin/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Instant Level Saves/PS4 (US)/Commando/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Instant Level Saves/PS4 (US)/Gunzerker/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Instant Level Saves/PS4 (US)/Mechromancer/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Instant Level Saves/PS4 (US)/Psyhco/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Instant Level Saves/PS4 (US)/Siren/CUSA01401.zip
-- [SaveXP02](arsashot-saves/borderlands 2/Instant Level Saves/xbox 360 save/Assassin/SaveXP02.sav
-- [SaveXP01](arsashot-saves/borderlands 2/Instant Level Saves/xbox 360 save/Commando/SaveXP01.sav
-- [SaveXP04](arsashot-saves/borderlands 2/Instant Level Saves/xbox 360 save/Gunzerker/SaveXP04.sav
-- [SaveXP05](arsashot-saves/borderlands 2/Instant Level Saves/xbox 360 save/Mechromancer/SaveXP05.sav
-- [SaveXP06](arsashot-saves/borderlands 2/Instant Level Saves/xbox 360 save/Psyhco/SaveXP06.sav
-- [SaveXP03](arsashot-saves/borderlands 2/Instant Level Saves/xbox 360 save/Siren/SaveXP03.sav
-- [SaveOP02](arsashot-saves/borderlands 2/op 10 booster/pc save/Assassin/SaveOP02.sav
-- [SaveOP01](arsashot-saves/borderlands 2/op 10 booster/pc save/Commando/SaveOP01.sav
-- [SaveOP04](arsashot-saves/borderlands 2/op 10 booster/pc save/Gunzerker/SaveOP04.sav
-- [SaveOP05](arsashot-saves/borderlands 2/op 10 booster/pc save/Mechromancer/SaveOP05.sav
-- [SaveOP06](arsashot-saves/borderlands 2/op 10 booster/pc save/Psyhco/SaveOP06.sav
-- [SaveOP03](arsashot-saves/borderlands 2/op 10 booster/pc save/Siren/SaveOP03.sav
-- [i dont care](arsashot-saves/borderlands 2/op 10 booster/PS4 (EU)/i dont care
-- [CUSA01401](arsashot-saves/borderlands 2/op 10 booster/PS4 (US)/Assassin/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/op 10 booster/PS4 (US)/Commando/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/op 10 booster/PS4 (US)/Gunzerker/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/op 10 booster/PS4 (US)/Mechromancer/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/op 10 booster/PS4 (US)/Psyhco/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/op 10 booster/PS4 (US)/Siren/CUSA01401.zip
-- [SaveOP02](arsashot-saves/borderlands 2/op 10 booster/xbox 360 save/Assassin/SaveOP02.sav
-- [SaveOP01](arsashot-saves/borderlands 2/op 10 booster/xbox 360 save/Commando/SaveOP01.sav
-- [SaveOP04](arsashot-saves/borderlands 2/op 10 booster/xbox 360 save/Gunzerker/SaveOP04.sav
-- [SaveOP05](arsashot-saves/borderlands 2/op 10 booster/xbox 360 save/Mechromancer/SaveOP05.sav
-- [SaveOP06](arsashot-saves/borderlands 2/op 10 booster/xbox 360 save/Psyhco/SaveOP06.sav
-- [SaveOP03](arsashot-saves/borderlands 2/op 10 booster/xbox 360 save/Siren/SaveOP03.sav
-- [profile](arsashot-saves/borderlands 2/Profile Saves/PC/profile.bin
-- [CUSA01401](arsashot-saves/borderlands 2/Profile Saves/PS4 (US)/CUSA01401.zip
-- [Save0002](arsashot-saves/borderlands 2/Starter Saves/PC/Assassin/Save0002.sav
-- [Save0001](arsashot-saves/borderlands 2/Starter Saves/PC/Commando/Save0001.sav
-- [Save0004](arsashot-saves/borderlands 2/Starter Saves/PC/Gunzerker/Save0004.sav
-- [Save0005](arsashot-saves/borderlands 2/Starter Saves/PC/Mechromancer/Save0005.sav
-- [Save0006](arsashot-saves/borderlands 2/Starter Saves/PC/Psyhco/Save0006.sav
-- [Save0003](arsashot-saves/borderlands 2/Starter Saves/PC/Siren/Save0003.sav
-- [CUSA01401](arsashot-saves/borderlands 2/Starter Saves/PS4 (US)/Assassin/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Starter Saves/PS4 (US)/Commando/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Starter Saves/PS4 (US)/Gunzerker/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Starter Saves/PS4 (US)/Mechromancer/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Starter Saves/PS4 (US)/Psyhco/CUSA01401.zip
-- [CUSA01401](arsashot-saves/borderlands 2/Starter Saves/PS4 (US)/Siren/CUSA01401.zip
-- [i dont care](arsashot-saves/borderlands 2/Weapon Item Droppers Saves/pc save/i dont care
-- [i dont care](arsashot-saves/borderlands 2/Weapon Item Droppers Saves/PS4 (EU)/i dont care
-- [i dont care](arsashot-saves/borderlands 2/Weapon Item Droppers Saves/PS4 (US)/i dont care
-- [i dont care](arsashot-saves/borderlands 2/Weapon Item Droppers Saves/xbox 360 save/i dont care
-- [1](arsashot-saves/Borderlands 3/Starter Saves/PC/Amara/1.sav
-- [2](arsashot-saves/Borderlands 3/Starter Saves/PC/FL4K/2.sav
-- [4](arsashot-saves/Borderlands 3/Starter Saves/PC/Moze/4.sav
-- [3](arsashot-saves/Borderlands 3/Starter Saves/PC/Zane/3.sav
-- [CUSA07823](arsashot-saves/Borderlands 3/Starter Saves/PS4 (US)/Amara/CUSA07823.zip
-- [CUSA07823](arsashot-saves/Borderlands 3/Starter Saves/PS4 (US)/FL4K/CUSA07823.zip
-- [CUSA07823](arsashot-saves/Borderlands 3/Starter Saves/PS4 (US)/Moze/CUSA07823.zip
-- [CUSA07823](arsashot-saves/Borderlands 3/Starter Saves/PS4 (US)/Zane/CUSA07823.zip
-- [Save](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PC/Save
-- [SaveCS06](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PC/Heads & Skins Dropper/Baroness/SaveCS06.sav
-- [SaveCS05](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PC/Heads & Skins Dropper/Doppelganger/SaveCS05.sav
-- [SaveCS02](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PC/Heads & Skins Dropper/Enforcer/SaveCS02.sav
-- [SaveCS04](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PC/Heads & Skins Dropper/Fragtrap/SaveCS04.sav
-- [SaveCS01](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PC/Heads & Skins Dropper/Gladiator/SaveCS01.sav
-- [SaveCS03](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PC/Heads & Skins Dropper/Lawbringer/SaveCS03.sav
-- [save here](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PS4 (EU)/save here
-- [Saves](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PS4 (US)/Saves
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Baroness/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Doppelganger/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Enforcer/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Fragtrap/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Gladiator/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/PS4 (US)/Heads & Skins Dropper/Lawbringer/CUSA01401.zip
-- [Save](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/Xbox 360/Save
-- [SaveCS06](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/Xbox 360/Heads & Skins Dropper/Baroness/SaveCS06.sav
-- [SaveCS05](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/Xbox 360/Heads & Skins Dropper/Doppelganger/SaveCS05.sav
-- [SaveCS02](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/Xbox 360/Heads & Skins Dropper/Enforcer/SaveCS02.sav
-- [SaveCS04](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/Xbox 360/Heads & Skins Dropper/Fragtrap/SaveCS04.sav
-- [SaveCS01](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/Xbox 360/Heads & Skins Dropper/Gladiator/SaveCS01.sav
-- [SaveCS03](arsashot-saves/Borderlands Pre-sequel/All Customization Saves/Xbox 360/Heads & Skins Dropper/Lawbringer/SaveCS03.sav
-- [SaveHYB1](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/pc save/Athena/SaveHYB1.sav
-- [SaveHYB6](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/pc save/Aurelia/SaveHYB6.sav
-- [SaveHYB4](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/pc save/Claptrap/SaveHYB4.sav
-- [SaveHYB5](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/pc save/Jack/SaveHYB5.sav
-- [SaveHYB3](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/pc save/Nisha/SaveHYB3.sav
-- [SaveHYB2](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/pc save/Wilhelm/SaveHYB2.sav
-- [save here](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/PS4 (EU)/save here
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/PS4 (US)/Athena/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/PS4 (US)/Aurelia/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/PS4 (US)/Claptrap/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/PS4 (US)/Jack/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/PS4 (US)/Nisha/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/PS4 (US)/Wilhelm/CUSA01401.zip
-- [SaveHYB1](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/xbox 360 save/Athena/SaveHYB1.sav
-- [SaveHYB6](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/xbox 360 save/Aurelia/SaveHYB6.sav
-- [SaveHYB4](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/xbox 360 save/Claptrap/SaveHYB4.sav
-- [SaveHYB5](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/xbox 360 save/Jack/SaveHYB5.sav
-- [SaveHYB3](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/xbox 360 save/Nisha/SaveHYB3.sav
-- [SaveHYB2](arsashot-saves/Borderlands Pre-sequel/Hybrid Weapons Saves/xbox 360 save/Wilhelm/SaveHYB2.sav
-- [SaveXP06](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/pc save/Baroness/SaveXP06.sav
-- [SaveXP05](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/pc save/Doppelganger/SaveXP05.sav
-- [SaveXP02](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/pc save/Enforcer/SaveXP02.sav
-- [SaveXP04](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/pc save/Fragtrap/SaveXP04.sav
-- [SaveXP01](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/pc save/Gladiator/SaveXP01.sav
-- [SaveXP03](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/pc save/Lawbringer/SaveXP03.sav
-- [i dont care](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/PS4 (EU)/i dont care
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/PS4 (US)/Baroness/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/PS4 (US)/Doppelganger/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/PS4 (US)/Enforcer/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/PS4 (US)/Fragtrap/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/PS4 (US)/Gladiator/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/PS4 (US)/Lawbringer/CUSA01401.zip
-- [SaveXP06](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/xbox 360 save/Baroness/SaveXP06.sav
-- [SaveXP05](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/xbox 360 save/Doppelganger/SaveXP05.sav
-- [SaveXP02](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/xbox 360 save/Enforcer/SaveXP02.sav
-- [SaveXP04](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/xbox 360 save/Fragtrap/SaveXP04.sav
-- [SaveXP01](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/xbox 360 save/Gladiator/SaveXP01.sav
-- [SaveXP03](arsashot-saves/Borderlands Pre-sequel/Instant Level Saves/xbox 360 save/Lawbringer/SaveXP03.sav
-- [profile](arsashot-saves/Borderlands Pre-sequel/Profile Saves/PC/profile.bin
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Profile Saves/PS4 (US)/CUSA01401.zip
-- [Save0006](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PC/Baroness/Save0006.sav
-- [Save0005](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PC/Doppelganger/Save0005.sav
-- [Save0002](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PC/Enforcer/Save0002.sav
-- [Save0004](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PC/Fragtrap/Save0004.sav
-- [Save0001](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PC/Gladiator/Save0001.sav
-- [Save0003](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PC/Lawbringer/Save0003.sav
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PS4 (US)/Baroness/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PS4 (US)/Doppelganger/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PS4 (US)/Enforcer/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PS4 (US)/Fragtrap/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PS4 (US)/Gladiator/CUSA01401.zip
-- [CUSA01401](arsashot-saves/Borderlands Pre-sequel/Starter Saves/PS4 (US)/Lawbringer/CUSA01401.zip
-- [CUSA08966](arsashot-saves/Days Gone/Modded Starter Saves/PS4 (US)/CUSA08966.zip
-- [Dead Island 2 Modded Starter Save PC](arsashot-saves/Dead Island 2/Dead Island 2 Modded Starter Save PC.zip
-- [Dead Island 2 Modded Starter Save PS4 EU](arsashot-saves/Dead Island 2/Dead Island 2 Modded Starter Save PS4 EU.zip
-- [Dead Island 2 Modded Starter Save PS4 US](arsashot-saves/Dead Island 2/Dead Island 2 Modded Starter Save PS4 US.zip
-- [save_0](arsashot-saves/Dead Island DE/Modded Starter Saves/pc save/Logan/save_0.sav
-- [save_1](arsashot-saves/Dead Island DE/Modded Starter Saves/pc save/Purna/save_1.sav
-- [save_4](arsashot-saves/Dead Island DE/Modded Starter Saves/pc save/Ryder/save_4.sav
-- [save_3](arsashot-saves/Dead Island DE/Modded Starter Saves/pc save/Sam B/save_3.sav
-- [save_2](arsashot-saves/Dead Island DE/Modded Starter Saves/pc save/Xian/save_2.sav
-- [CUSA03684](arsashot-saves/Dead Island DE/Modded Starter Saves/PS4 (US)/Logan/CUSA03684.zip
-- [CUSA03684](arsashot-saves/Dead Island DE/Modded Starter Saves/PS4 (US)/Purna/CUSA03684.zip
-- [CUSA03684](arsashot-saves/Dead Island DE/Modded Starter Saves/PS4 (US)/Ryder/CUSA03684.zip
-- [CUSA03684](arsashot-saves/Dead Island DE/Modded Starter Saves/PS4 (US)/Sam B/CUSA03684.zip
-- [CUSA03684](arsashot-saves/Dead Island DE/Modded Starter Saves/PS4 (US)/Xian/CUSA03684.zip
-- [save_4](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/pc save/John/save_4.sar
-- [save_0](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/pc save/Logan/save_0.sar
-- [save_1](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/pc save/Purna/save_1.sar
-- [save_3](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/pc save/Sam B/save_3.sar
-- [save_2](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/pc save/Xian/save_2.sar
-- [CUSA03685](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/PS4 (US)/John/CUSA03685.zip
-- [CUSA03685](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/PS4 (US)/Logan/CUSA03685.zip
-- [CUSA03685](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/PS4 (US)/Purna/CUSA03685.zip
-- [CUSA03685](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/PS4 (US)/Sam B/CUSA03685.zip
-- [CUSA03685](arsashot-saves/Dead Island Riptide DE/Modded Starter Saves/PS4 (US)/Xian/CUSA03685.zip
-- [CUSA08540](arsashot-saves/Dead Rising 4/Modded Starter Save/PS4 (US)/CUSA08540.zip
-- [Doom 2016 Modded Starter Save PS4 US](arsashot-saves/Doom 2016/Doom 2016 Modded Starter Save PS4 US.zip
-- [DAISAVEU00165F49FAC](arsashot-saves/Dragon Age Inquisition/Modded Starter Saves/pc save/Female/DAISAVEU00165F49FAC.DAS
-- [DAISAVEU001C8BE6FBF](arsashot-saves/Dragon Age Inquisition/Modded Starter Saves/pc save/Male/DAISAVEU001C8BE6FBF.DAS
-- [CUSA00220](arsashot-saves/Dragon Age Inquisition/Modded Starter Saves/PS4 (US)/Female/CUSA00220.zip
-- [CUSA00220](arsashot-saves/Dragon Age Inquisition/Modded Starter Saves/PS4 (US)/Male/CUSA00220.zip
-- [Dying Light 2 Modded Starter Save PC](arsashot-saves/Dying Light 2/Modded Starter Saves/Dying Light 2 Modded Starter Save PC.zip
-- [Dying Light 2 Modded Starter Save PS4 EU](arsashot-saves/Dying Light 2/Modded Starter Saves/Dying Light 2 Modded Starter Save PS4 EU.zip
-- [Dying Light 2 Modded Starter Save PS4 US](arsashot-saves/Dying Light 2/Modded Starter Saves/Dying Light 2 Modded Starter Save PS4 US.zip
-- [Far Cry 4 Modded Starter Save PC](arsashot-saves/Far Cry 4/Far Cry 4 Modded Starter Save PC.zip
-- [Far Cry 4 Modded Starter Save PS4 EU](arsashot-saves/Far Cry 4/Far Cry 4 Modded Starter Save PS4 EU.zip
-- [Far Cry 4 Modded Starter Save PS4 US](arsashot-saves/Far Cry 4/Far Cry 4 Modded Starter Save PS4 US.zip
-- [Generation Zero Modded Starter Save PC](arsashot-saves/Generation Zero/Generation Zero Modded Starter Save PC.zip
-- [Generation Zero Modded Starter Save PS4 EU](arsashot-saves/Generation Zero/Generation Zero Modded Starter Save PS4 EU.zip
-- [Generation Zero Modded Starter Save PS4 US](arsashot-saves/Generation Zero/Generation Zero Modded Starter Save PS4 US.zip
-- [Granblue Fantasy Relink Modded Starter Save PS4 US](arsashot-saves/Granblue Fantasy Relink/Granblue Fantasy Relink Modded Starter Save PS4 US.zip
-- [High on Life Modded Starter Save PC](arsashot-saves/High on Life/High on Life Modded Starter Save PC.zip
-- [High on Life Modded Starter Save PS4 EU](arsashot-saves/High on Life/High on Life Modded Starter Save PS4 EU.zip
-- [High on Life Modded Starter Save PS4 US](arsashot-saves/High on Life/High on Life Modded Starter Save PS4 US.zip
-- [Hogwarts Legacy Modded Starter Saves PS4 US](arsashot-saves/Hogwarts Legacy/Modded Starter Saves/Hogwarts Legacy Modded Starter Saves PS4 US.zip
-- [No Mans Sky Modded Starter Save PS4 US](arsashot-saves/No Man's Sky/No Mans Sky Modded Starter Save PS4 US.zip
-- [Prince of Persia The Lost Crown Modded Starter Save PS4 US](arsashot-saves/Prince of Persia The Lost Crown/Prince of Persia The Lost Crown Modded Starter Save PS4 US.zip
-- [Red Dead Redemption 2 Modded Starter Save PS4 US](arsashot-saves/Red Dead Redemption 2/Red Dead Redemption 2 Modded Starter Save PS4 US.zip
-- [Sekiro Shadows Die Twice Modded Starter Save PS4 US](arsashot-saves/Sekiro Shadows Die Twice/Sekiro Shadows Die Twice Modded Starter Save PS4 US.zip
-- [Skyrim Modded Starter Saves PS4 EU](arsashot-saves/Skyrim/Skyrim Modded Starter Saves PS4 EU.zip
-- [Skyrim Modded Starter Saves PS4 US](arsashot-saves/Skyrim/Skyrim Modded Starter Saves PS4 US.zip
-- [Star Wars Jedi Survivor Modded Starter Save PC](arsashot-saves/Star Wars Jedi Survivor/Star Wars Jedi Survivor Modded Starter Save PC.zip
-- [Star Wars Jedi Survivor Modded Starter Save PS4](arsashot-saves/Star Wars Jedi Survivor/Star Wars Jedi Survivor Modded Starter Save PS4.zip
-- [Sword Art Online Hollow Realization Modded Starter Save PC](arsashot-saves/Sword Art Online Hollow Realization/Sword Art Online Hollow Realization Modded Starter Save PC.zip
-- [Sword Art Online Hollow Realization Modded Starter Save PS4](arsashot-saves/Sword Art Online Hollow Realization/Sword Art Online Hollow Realization Modded Starter Save PS4.zip
-- [Sword Art Online Last Recollection Modded Starter Save PC](arsashot-saves/Sword Art Online Last Recollection/Sword Art Online Last Recollection Modded Starter Save PC.zip
-- [Sword Art Online Last Recollection Modded Starter Save PS4](arsashot-saves/Sword Art Online Last Recollection/Sword Art Online Last Recollection Modded Starter Save PS4.zip
-- [Tales of Arise Modded Starter Save PS4 US](arsashot-saves/Tales of Arise/modded starter save/PS4 (US)/Tales of Arise Modded Starter Save PS4 US.zip
-- [The Surge 1 Modded Starter Save PS4 EU](arsashot-saves/The Surge 1/The Surge 1 Modded Starter Save PS4 EU.zip
-- [The Surge 1 Modded Starter Save PS4 US](arsashot-saves/The Surge 1/The Surge 1 Modded Starter Save PS4 US.zip
-- [The Witcher 3 Modded Starter Save PC](arsashot-saves/The Witcher 3/The Witcher 3 Modded Starter Save PC.zip
-- [The Witcher 3 Modded Starter Save PS4 US](arsashot-saves/The Witcher 3/The Witcher 3 Modded Starter Save PS4 US.zip
-- [Tiny Tina's Wonderlands Modded Starter Saves PC](arsashot-saves/Tiny Tina's Wonderlands/Tiny Tina's Wonderlands Modded Starter Saves PC.zip
-- [Tiny Tina's Wonderlands Modded Starter Saves PS4 US](arsashot-saves/Tiny Tina's Wonderlands/Tiny Tina's Wonderlands Modded Starter Saves PS4 US.zip
-- [Watch Dogs 1 Modded Starter Save PC](arsashot-saves/Watch Dogs 1/Watch Dogs 1 Modded Starter Save PC.zip
-- [Watch Dogs 1 Modded Starter Save PS4 EU](arsashot-saves/Watch Dogs 1/Watch Dogs 1 Modded Starter Save PS4 EU.zip
-- [Watch Dogs 1 Modded Starter Save PS4 US](arsashot-saves/Watch Dogs 1/Watch Dogs 1 Modded Starter Save PS4 US.zip
+- [README](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/README.md
+- [COMMIT_EDITMSG](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/COMMIT_EDITMSG
+- [config](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/config
+- [description](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/description
+- [FETCH_HEAD](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/FETCH_HEAD
+- [HEAD](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/HEAD
+- [index](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/index
+- [ORIG_HEAD](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/ORIG_HEAD
+- [packed-refs](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/packed-refs
+- [applypatch-msg](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/applypatch-msg.sample
+- [commit-msg](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/commit-msg.sample
+- [fsmonitor-watchman](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/fsmonitor-watchman.sample
+- [post-update](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/post-update.sample
+- [pre-applypatch](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/pre-applypatch.sample
+- [pre-commit](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/pre-commit.sample
+- [pre-merge-commit](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/pre-merge-commit.sample
+- [pre-push](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/pre-push.sample
+- [pre-rebase](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/pre-rebase.sample
+- [pre-receive](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/pre-receive.sample
+- [prepare-commit-msg](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/prepare-commit-msg.sample
+- [push-to-checkout](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/push-to-checkout.sample
+- [sendemail-validate](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/sendemail-validate.sample
+- [update](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/hooks/update.sample
+- [exclude](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/info/exclude
+- [HEAD](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/logs/HEAD
+- [main](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/logs/refs/heads/main
+- [HEAD](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/logs/refs/remotes/origin/HEAD
+- [main](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/logs/refs/remotes/origin/main
+- [7b04216da5ce43483e50ee05cfcb91dc6d9305](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/17/7b04216da5ce43483e50ee05cfcb91dc6d9305
+- [54138c9b0fe78b744cdf631a88de2fae29cb03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/53/54138c9b0fe78b744cdf631a88de2fae29cb03
+- [3d80d24cebfa29bbd642a1bf352e7a7eebf2d0](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/63/3d80d24cebfa29bbd642a1bf352e7a7eebf2d0
+- [24560e736ad3759c35d077a90ea137becb862a](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/67/24560e736ad3759c35d077a90ea137becb862a
+- [ae96174d9349849620f41d8dda02dc6591c9d3](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/6c/ae96174d9349849620f41d8dda02dc6591c9d3
+- [75d2b8d868df9f06c878da1f77e949cfb7cbe5](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/89/75d2b8d868df9f06c878da1f77e949cfb7cbe5
+- [e60a2965e4d5b8aecbb74daa2805f11b4e9d0c](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/8d/e60a2965e4d5b8aecbb74daa2805f11b4e9d0c
+- [3c93f4b7569a5a8cb2c298002db8e865e48a07](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/ac/3c93f4b7569a5a8cb2c298002db8e865e48a07
+- [27a3ff374e4685d138c917293d5c0820f98297](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/b7/27a3ff374e4685d138c917293d5c0820f98297
+- [b3a11028282e4cee161f87a8a39732b25dba03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/bd/b3a11028282e4cee161f87a8a39732b25dba03
+- [836730e327d302c023e32fa34c24139f69f832](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/c1/836730e327d302c023e32fa34c24139f69f832
+- [ae7711bfac153d512a1a45474da7f6e6c1ca3a](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/c5/ae7711bfac153d512a1a45474da7f6e6c1ca3a
+- [55e940654c66bbb92a705846aac69c378239bf](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/c7/55e940654c66bbb92a705846aac69c378239bf
+- [003fe03aff868e7760bf0f0f84766b79fb6b74](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/db/003fe03aff868e7760bf0f0f84766b79fb6b74
+- [432696a02880ce0d3b6b5405011bfe39c6e214](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/df/432696a02880ce0d3b6b5405011bfe39c6e214
+- [91b4ad83d7dc4dc3204df28521978480214698](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/f8/91b4ad83d7dc4dc3204df28521978480214698
+- [pack-08e66a72e5bbd7b7151703eaf47107e849917667](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/pack/pack-08e66a72e5bbd7b7151703eaf47107e849917667.idx
+- [pack-08e66a72e5bbd7b7151703eaf47107e849917667](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/pack/pack-08e66a72e5bbd7b7151703eaf47107e849917667.pack
+- [pack-08e66a72e5bbd7b7151703eaf47107e849917667](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/objects/pack/pack-08e66a72e5bbd7b7151703eaf47107e849917667.rev
+- [main](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/refs/heads/main
+- [HEAD](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/refs/remotes/origin/HEAD
+- [main](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/.git/refs/remotes/origin/main
+- [Aliens Fireteam Elite Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Aliens%20Fireteam%20Elite/Aliens%20Fireteam%20Elite%20Modded%20Starter%20Save%20PC.zip
+- [Aliens Fireteam Elite Modded Starter Save PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Aliens%20Fireteam%20Elite/Aliens%20Fireteam%20Elite%20Modded%20Starter%20Save%20PS4%20EU.zip
+- [Aliens Fireteam Elite Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Aliens%20Fireteam%20Elite/Aliens%20Fireteam%20Elite%20Modded%20Starter%20Save%20PS4%20US.zip
+- [char](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Aliens%20Fireteam%20Elite/Modded%20Starter%20Saves/pc%20save/char.sav
+- [CUSA27462](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Aliens%20Fireteam%20Elite/Modded%20Starter%20Saves/PS4%20(US)/CUSA27462.zip
+- [Assassin's Creed Odyssey Modded Starter Saves PS4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Assassin's%20Creed%20Odyssey/Assassin's%20Creed%20Odyssey%20Modded%20Starter%20Saves%20PS4.zip
+- [Assassin's Creed Valhalla Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Assassin's%20Creed%20Valhalla/Assassin's%20Creed%20Valhalla%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Assassins Creed Origins Modded Starter Save PS4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Assassin's%20Creed%20Origins/Assassins%20Creed%20Origins%20Modded%20Starter%20Save%20PS4.zip
+- [Borderlands 1 Modded Starter Saves PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%201/Borderlands%201%20Modded%20Starter%20Saves%20PC.zip
+- [Borderlands 1 Modded Starter Saves PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%201/Borderlands%201%20Modded%20Starter%20Saves%20PS4%20EU.zip
+- [Borderlands 1 Modded Starter Saves PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%201/Borderlands%201%20Modded%20Starter%20Saves%20PS4%20US.zip
+- [Saves](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PC/Saves
+- [SaveCS02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Assassin/SaveCS02.sav
+- [SaveCS01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Commando/SaveCS01.sav
+- [SaveCS04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Gunzerker/SaveCS04.sav
+- [SaveCS05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Mechromancer/SaveCS05.sav
+- [SaveCS06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Psyhco/SaveCS06.sav
+- [SaveCS03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Siren/SaveCS03.sav
+- [Save](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PS4%20(US)/Save
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Assassin/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Commando/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Gunzerker/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Mechromancer/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Psyhco/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Siren/CUSA01401.zip
+- [Saves](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/Xbox%20360/Saves
+- [SaveCS02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Assassin/SaveCS02.sav
+- [SaveCS01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Commando/SaveCS01.sav
+- [SaveCS04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Gunzerker/SaveCS04.sav
+- [SaveCS05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Mechromancer/SaveCS05.sav
+- [SaveCS06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Psyhco/SaveCS06.sav
+- [SaveCS03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Siren/SaveCS03.sav
+- [SaveHYB1](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/pc%20save/Assassin/SaveHYB1.sav
+- [SaveHYB2](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/pc%20save/Commando/SaveHYB2.sav
+- [SaveHYB3](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/pc%20save/Gunzerker/SaveHYB3.sav
+- [SaveHYB4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/pc%20save/Mechromancer/SaveHYB4.sav
+- [SaveHYB5](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/pc%20save/Psycho/SaveHYB5.sav
+- [SaveHYB6](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/pc%20save/Siren/SaveHYB6.sav
+- [save here](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/PS4%20(EU)/save%20here
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/PS4%20(US)/Assassin/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/PS4%20(US)/Commando/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/PS4%20(US)/Gunzerker/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/PS4%20(US)/Mechromancer/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/PS4%20(US)/Psycho/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/PS4%20(US)/Siren/CUSA01401.zip
+- [SaveHYB1](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/xbox%20360%20save/Assassin/SaveHYB1.sav
+- [SaveHYB2](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/xbox%20360%20save/Commando/SaveHYB2.sav
+- [SaveHYB3](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/xbox%20360%20save/Gunzerker/SaveHYB3.sav
+- [SaveHYB4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/xbox%20360%20save/Mechromancer/SaveHYB4.sav
+- [SaveHYB5](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/xbox%20360%20save/Psycho/SaveHYB5.sav
+- [SaveHYB6](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Hybrid%20Weapons%20Saves/xbox%20360%20save/Siren/SaveHYB6.sav
+- [SaveXP02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/pc%20save/Assassin/SaveXP02.sav
+- [SaveXP01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/pc%20save/Commando/SaveXP01.sav
+- [SaveXP04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/pc%20save/Gunzerker/SaveXP04.sav
+- [SaveXP05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/pc%20save/Mechromancer/SaveXP05.sav
+- [SaveXP06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/pc%20save/Psyhco/SaveXP06.sav
+- [SaveXP03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/pc%20save/Siren/SaveXP03.sav
+- [i dont care](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/PS4%20(EU)/i%20dont%20care
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/PS4%20(US)/Assassin/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/PS4%20(US)/Commando/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/PS4%20(US)/Gunzerker/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/PS4%20(US)/Mechromancer/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/PS4%20(US)/Psyhco/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/PS4%20(US)/Siren/CUSA01401.zip
+- [SaveXP02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/xbox%20360%20save/Assassin/SaveXP02.sav
+- [SaveXP01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/xbox%20360%20save/Commando/SaveXP01.sav
+- [SaveXP04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/xbox%20360%20save/Gunzerker/SaveXP04.sav
+- [SaveXP05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/xbox%20360%20save/Mechromancer/SaveXP05.sav
+- [SaveXP06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/xbox%20360%20save/Psyhco/SaveXP06.sav
+- [SaveXP03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Instant%20Level%20Saves/xbox%20360%20save/Siren/SaveXP03.sav
+- [SaveOP02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/pc%20save/Assassin/SaveOP02.sav
+- [SaveOP01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/pc%20save/Commando/SaveOP01.sav
+- [SaveOP04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/pc%20save/Gunzerker/SaveOP04.sav
+- [SaveOP05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/pc%20save/Mechromancer/SaveOP05.sav
+- [SaveOP06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/pc%20save/Psyhco/SaveOP06.sav
+- [SaveOP03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/pc%20save/Siren/SaveOP03.sav
+- [i dont care](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/PS4%20(EU)/i%20dont%20care
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/PS4%20(US)/Assassin/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/PS4%20(US)/Commando/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/PS4%20(US)/Gunzerker/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/PS4%20(US)/Mechromancer/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/PS4%20(US)/Psyhco/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/PS4%20(US)/Siren/CUSA01401.zip
+- [SaveOP02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/xbox%20360%20save/Assassin/SaveOP02.sav
+- [SaveOP01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/xbox%20360%20save/Commando/SaveOP01.sav
+- [SaveOP04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/xbox%20360%20save/Gunzerker/SaveOP04.sav
+- [SaveOP05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/xbox%20360%20save/Mechromancer/SaveOP05.sav
+- [SaveOP06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/xbox%20360%20save/Psyhco/SaveOP06.sav
+- [SaveOP03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/op%2010%20booster/xbox%20360%20save/Siren/SaveOP03.sav
+- [profile](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Profile%20Saves/PC/profile.bin
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Profile%20Saves/PS4%20(US)/CUSA01401.zip
+- [Save0002](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PC/Assassin/Save0002.sav
+- [Save0001](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PC/Commando/Save0001.sav
+- [Save0004](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PC/Gunzerker/Save0004.sav
+- [Save0005](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PC/Mechromancer/Save0005.sav
+- [Save0006](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PC/Psyhco/Save0006.sav
+- [Save0003](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PC/Siren/Save0003.sav
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PS4%20(US)/Assassin/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PS4%20(US)/Commando/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PS4%20(US)/Gunzerker/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PS4%20(US)/Mechromancer/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PS4%20(US)/Psyhco/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Starter%20Saves/PS4%20(US)/Siren/CUSA01401.zip
+- [i dont care](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Weapon%20Item%20Droppers%20Saves/pc%20save/i%20dont%20care
+- [i dont care](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Weapon%20Item%20Droppers%20Saves/PS4%20(EU)/i%20dont%20care
+- [i dont care](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Weapon%20Item%20Droppers%20Saves/PS4%20(US)/i%20dont%20care
+- [i dont care](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/borderlands%202/Weapon%20Item%20Droppers%20Saves/xbox%20360%20save/i%20dont%20care
+- [1](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%203/Starter%20Saves/PC/Amara/1.sav
+- [2](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%203/Starter%20Saves/PC/FL4K/2.sav
+- [4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%203/Starter%20Saves/PC/Moze/4.sav
+- [3](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%203/Starter%20Saves/PC/Zane/3.sav
+- [CUSA07823](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%203/Starter%20Saves/PS4%20(US)/Amara/CUSA07823.zip
+- [CUSA07823](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%203/Starter%20Saves/PS4%20(US)/FL4K/CUSA07823.zip
+- [CUSA07823](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%203/Starter%20Saves/PS4%20(US)/Moze/CUSA07823.zip
+- [CUSA07823](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%203/Starter%20Saves/PS4%20(US)/Zane/CUSA07823.zip
+- [Save](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PC/Save
+- [SaveCS06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Baroness/SaveCS06.sav
+- [SaveCS05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Doppelganger/SaveCS05.sav
+- [SaveCS02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Enforcer/SaveCS02.sav
+- [SaveCS04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Fragtrap/SaveCS04.sav
+- [SaveCS01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Gladiator/SaveCS01.sav
+- [SaveCS03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PC/Heads%20&%20Skins%20Dropper/Lawbringer/SaveCS03.sav
+- [save here](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PS4%20(EU)/save%20here
+- [Saves](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PS4%20(US)/Saves
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Baroness/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Doppelganger/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Enforcer/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Fragtrap/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Gladiator/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/PS4%20(US)/Heads%20&%20Skins%20Dropper/Lawbringer/CUSA01401.zip
+- [Save](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/Xbox%20360/Save
+- [SaveCS06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Baroness/SaveCS06.sav
+- [SaveCS05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Doppelganger/SaveCS05.sav
+- [SaveCS02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Enforcer/SaveCS02.sav
+- [SaveCS04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Fragtrap/SaveCS04.sav
+- [SaveCS01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Gladiator/SaveCS01.sav
+- [SaveCS03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/All%20Customization%20Saves/Xbox%20360/Heads%20&%20Skins%20Dropper/Lawbringer/SaveCS03.sav
+- [SaveHYB1](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/pc%20save/Athena/SaveHYB1.sav
+- [SaveHYB6](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/pc%20save/Aurelia/SaveHYB6.sav
+- [SaveHYB4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/pc%20save/Claptrap/SaveHYB4.sav
+- [SaveHYB5](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/pc%20save/Jack/SaveHYB5.sav
+- [SaveHYB3](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/pc%20save/Nisha/SaveHYB3.sav
+- [SaveHYB2](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/pc%20save/Wilhelm/SaveHYB2.sav
+- [save here](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/PS4%20(EU)/save%20here
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/PS4%20(US)/Athena/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/PS4%20(US)/Aurelia/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/PS4%20(US)/Claptrap/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/PS4%20(US)/Jack/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/PS4%20(US)/Nisha/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/PS4%20(US)/Wilhelm/CUSA01401.zip
+- [SaveHYB1](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/xbox%20360%20save/Athena/SaveHYB1.sav
+- [SaveHYB6](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/xbox%20360%20save/Aurelia/SaveHYB6.sav
+- [SaveHYB4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/xbox%20360%20save/Claptrap/SaveHYB4.sav
+- [SaveHYB5](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/xbox%20360%20save/Jack/SaveHYB5.sav
+- [SaveHYB3](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/xbox%20360%20save/Nisha/SaveHYB3.sav
+- [SaveHYB2](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Hybrid%20Weapons%20Saves/xbox%20360%20save/Wilhelm/SaveHYB2.sav
+- [SaveXP06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/pc%20save/Baroness/SaveXP06.sav
+- [SaveXP05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/pc%20save/Doppelganger/SaveXP05.sav
+- [SaveXP02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/pc%20save/Enforcer/SaveXP02.sav
+- [SaveXP04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/pc%20save/Fragtrap/SaveXP04.sav
+- [SaveXP01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/pc%20save/Gladiator/SaveXP01.sav
+- [SaveXP03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/pc%20save/Lawbringer/SaveXP03.sav
+- [i dont care](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/PS4%20(EU)/i%20dont%20care
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/PS4%20(US)/Baroness/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/PS4%20(US)/Doppelganger/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/PS4%20(US)/Enforcer/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/PS4%20(US)/Fragtrap/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/PS4%20(US)/Gladiator/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/PS4%20(US)/Lawbringer/CUSA01401.zip
+- [SaveXP06](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/xbox%20360%20save/Baroness/SaveXP06.sav
+- [SaveXP05](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/xbox%20360%20save/Doppelganger/SaveXP05.sav
+- [SaveXP02](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/xbox%20360%20save/Enforcer/SaveXP02.sav
+- [SaveXP04](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/xbox%20360%20save/Fragtrap/SaveXP04.sav
+- [SaveXP01](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/xbox%20360%20save/Gladiator/SaveXP01.sav
+- [SaveXP03](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Instant%20Level%20Saves/xbox%20360%20save/Lawbringer/SaveXP03.sav
+- [profile](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Profile%20Saves/PC/profile.bin
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Profile%20Saves/PS4%20(US)/CUSA01401.zip
+- [Save0006](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PC/Baroness/Save0006.sav
+- [Save0005](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PC/Doppelganger/Save0005.sav
+- [Save0002](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PC/Enforcer/Save0002.sav
+- [Save0004](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PC/Fragtrap/Save0004.sav
+- [Save0001](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PC/Gladiator/Save0001.sav
+- [Save0003](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PC/Lawbringer/Save0003.sav
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PS4%20(US)/Baroness/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PS4%20(US)/Doppelganger/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PS4%20(US)/Enforcer/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PS4%20(US)/Fragtrap/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PS4%20(US)/Gladiator/CUSA01401.zip
+- [CUSA01401](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Borderlands%20Pre-sequel/Starter%20Saves/PS4%20(US)/Lawbringer/CUSA01401.zip
+- [CUSA08966](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Days%20Gone/Modded%20Starter%20Saves/PS4%20(US)/CUSA08966.zip
+- [Dead Island 2 Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%202/Dead%20Island%202%20Modded%20Starter%20Save%20PC.zip
+- [Dead Island 2 Modded Starter Save PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%202/Dead%20Island%202%20Modded%20Starter%20Save%20PS4%20EU.zip
+- [Dead Island 2 Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%202/Dead%20Island%202%20Modded%20Starter%20Save%20PS4%20US.zip
+- [save_0](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/pc%20save/Logan/save_0.sav
+- [save_1](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/pc%20save/Purna/save_1.sav
+- [save_4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/pc%20save/Ryder/save_4.sav
+- [save_3](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/pc%20save/Sam%20B/save_3.sav
+- [save_2](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/pc%20save/Xian/save_2.sav
+- [CUSA03684](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/PS4%20(US)/Logan/CUSA03684.zip
+- [CUSA03684](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/PS4%20(US)/Purna/CUSA03684.zip
+- [CUSA03684](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/PS4%20(US)/Ryder/CUSA03684.zip
+- [CUSA03684](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/PS4%20(US)/Sam%20B/CUSA03684.zip
+- [CUSA03684](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20DE/Modded%20Starter%20Saves/PS4%20(US)/Xian/CUSA03684.zip
+- [save_4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/pc%20save/John/save_4.sar
+- [save_0](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/pc%20save/Logan/save_0.sar
+- [save_1](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/pc%20save/Purna/save_1.sar
+- [save_3](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/pc%20save/Sam%20B/save_3.sar
+- [save_2](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/pc%20save/Xian/save_2.sar
+- [CUSA03685](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/PS4%20(US)/John/CUSA03685.zip
+- [CUSA03685](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/PS4%20(US)/Logan/CUSA03685.zip
+- [CUSA03685](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/PS4%20(US)/Purna/CUSA03685.zip
+- [CUSA03685](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/PS4%20(US)/Sam%20B/CUSA03685.zip
+- [CUSA03685](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Island%20Riptide%20DE/Modded%20Starter%20Saves/PS4%20(US)/Xian/CUSA03685.zip
+- [CUSA08540](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dead%20Rising%204/Modded%20Starter%20Save/PS4%20(US)/CUSA08540.zip
+- [Doom 2016 Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Doom%202016/Doom%202016%20Modded%20Starter%20Save%20PS4%20US.zip
+- [DAISAVEU00165F49FAC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dragon%20Age%20Inquisition/Modded%20Starter%20Saves/pc%20save/Female/DAISAVEU00165F49FAC.DAS
+- [DAISAVEU001C8BE6FBF](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dragon%20Age%20Inquisition/Modded%20Starter%20Saves/pc%20save/Male/DAISAVEU001C8BE6FBF.DAS
+- [CUSA00220](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dragon%20Age%20Inquisition/Modded%20Starter%20Saves/PS4%20(US)/Female/CUSA00220.zip
+- [CUSA00220](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dragon%20Age%20Inquisition/Modded%20Starter%20Saves/PS4%20(US)/Male/CUSA00220.zip
+- [Dying Light 2 Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dying%20Light%202/Modded%20Starter%20Saves/Dying%20Light%202%20Modded%20Starter%20Save%20PC.zip
+- [Dying Light 2 Modded Starter Save PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dying%20Light%202/Modded%20Starter%20Saves/Dying%20Light%202%20Modded%20Starter%20Save%20PS4%20EU.zip
+- [Dying Light 2 Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Dying%20Light%202/Modded%20Starter%20Saves/Dying%20Light%202%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Far Cry 4 Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Far%20Cry%204/Far%20Cry%204%20Modded%20Starter%20Save%20PC.zip
+- [Far Cry 4 Modded Starter Save PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Far%20Cry%204/Far%20Cry%204%20Modded%20Starter%20Save%20PS4%20EU.zip
+- [Far Cry 4 Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Far%20Cry%204/Far%20Cry%204%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Generation Zero Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Generation%20Zero/Generation%20Zero%20Modded%20Starter%20Save%20PC.zip
+- [Generation Zero Modded Starter Save PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Generation%20Zero/Generation%20Zero%20Modded%20Starter%20Save%20PS4%20EU.zip
+- [Generation Zero Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Generation%20Zero/Generation%20Zero%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Granblue Fantasy Relink Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Granblue%20Fantasy%20Relink/Granblue%20Fantasy%20Relink%20Modded%20Starter%20Save%20PS4%20US.zip
+- [High on Life Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/High%20on%20Life/High%20on%20Life%20Modded%20Starter%20Save%20PC.zip
+- [High on Life Modded Starter Save PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/High%20on%20Life/High%20on%20Life%20Modded%20Starter%20Save%20PS4%20EU.zip
+- [High on Life Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/High%20on%20Life/High%20on%20Life%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Hogwarts Legacy Modded Starter Saves PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Hogwarts%20Legacy/Modded%20Starter%20Saves/Hogwarts%20Legacy%20Modded%20Starter%20Saves%20PS4%20US.zip
+- [No Mans Sky Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/No%20Man's%20Sky/No%20Mans%20Sky%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Prince of Persia The Lost Crown Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Prince%20of%20Persia%20The%20Lost%20Crown/Prince%20of%20Persia%20The%20Lost%20Crown%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Red Dead Redemption 2 Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Red%20Dead%20Redemption%202/Red%20Dead%20Redemption%202%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Sekiro Shadows Die Twice Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Sekiro%20Shadows%20Die%20Twice/Sekiro%20Shadows%20Die%20Twice%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Skyrim Modded Starter Saves PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Skyrim/Skyrim%20Modded%20Starter%20Saves%20PS4%20EU.zip
+- [Skyrim Modded Starter Saves PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Skyrim/Skyrim%20Modded%20Starter%20Saves%20PS4%20US.zip
+- [Star Wars Jedi Survivor Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Star%20Wars%20Jedi%20Survivor/Star%20Wars%20Jedi%20Survivor%20Modded%20Starter%20Save%20PC.zip
+- [Star Wars Jedi Survivor Modded Starter Save PS4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Star%20Wars%20Jedi%20Survivor/Star%20Wars%20Jedi%20Survivor%20Modded%20Starter%20Save%20PS4.zip
+- [Sword Art Online Hollow Realization Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Sword%20Art%20Online%20Hollow%20Realization/Sword%20Art%20Online%20Hollow%20Realization%20Modded%20Starter%20Save%20PC.zip
+- [Sword Art Online Hollow Realization Modded Starter Save PS4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Sword%20Art%20Online%20Hollow%20Realization/Sword%20Art%20Online%20Hollow%20Realization%20Modded%20Starter%20Save%20PS4.zip
+- [Sword Art Online Last Recollection Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Sword%20Art%20Online%20Last%20Recollection/Sword%20Art%20Online%20Last%20Recollection%20Modded%20Starter%20Save%20PC.zip
+- [Sword Art Online Last Recollection Modded Starter Save PS4](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Sword%20Art%20Online%20Last%20Recollection/Sword%20Art%20Online%20Last%20Recollection%20Modded%20Starter%20Save%20PS4.zip
+- [Tales of Arise Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Tales%20of%20Arise/modded%20starter%20save/PS4%20(US)/Tales%20of%20Arise%20Modded%20Starter%20Save%20PS4%20US.zip
+- [The Surge 1 Modded Starter Save PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/The%20Surge%201/The%20Surge%201%20Modded%20Starter%20Save%20PS4%20EU.zip
+- [The Surge 1 Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/The%20Surge%201/The%20Surge%201%20Modded%20Starter%20Save%20PS4%20US.zip
+- [The Witcher 3 Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/The%20Witcher%203/The%20Witcher%203%20Modded%20Starter%20Save%20PC.zip
+- [The Witcher 3 Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/The%20Witcher%203/The%20Witcher%203%20Modded%20Starter%20Save%20PS4%20US.zip
+- [Tiny Tina's Wonderlands Modded Starter Saves PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Tiny%20Tina's%20Wonderlands/Tiny%20Tina's%20Wonderlands%20Modded%20Starter%20Saves%20PC.zip
+- [Tiny Tina's Wonderlands Modded Starter Saves PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Tiny%20Tina's%20Wonderlands/Tiny%20Tina's%20Wonderlands%20Modded%20Starter%20Saves%20PS4%20US.zip
+- [Watch Dogs 1 Modded Starter Save PC](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Watch%20Dogs%201/Watch%20Dogs%201%20Modded%20Starter%20Save%20PC.zip
+- [Watch Dogs 1 Modded Starter Save PS4 EU](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Watch%20Dogs%201/Watch%20Dogs%201%20Modded%20Starter%20Save%20PS4%20EU.zip
+- [Watch Dogs 1 Modded Starter Save PS4 US](https://github.com/ninjastyle800/arsashot-saves/raw/refs/heads/main/Watch%20Dogs%201/Watch%20Dogs%201%20Modded%20Starter%20Save%20PS4%20US.zip
